@@ -1,0 +1,4 @@
+# Created by cloud-init v. 24.4.1-0ubuntu0~20.04.3 on Thu, 15 Jan 2026 07:36:17 +0000
+
+# User rules for zimak85
+zimak85 ALL=(ALL) NOPASSWD:ALL
